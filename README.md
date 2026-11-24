@@ -13,11 +13,11 @@
 <sup>✉</sup> Corresponding authors. Extended version of [CMSA-Net (MICCAI 2026)](https://github.com/wangtong627/CMSA-Net).
 
 <p>
-  <a href="https://arxiv.org/abs/2611.30568"><img src="https://img.shields.io/badge/arXiv-2611.30568-b31b1b.svg?style=flat-square" alt="arXiv"></a>
-  <a href="https://arxiv.org/pdf/2611.30568"><img src="https://img.shields.io/badge/Paper-PDF-blue.svg?style=flat-square" alt="Paper PDF"></a>
-  <a href="#-code-and-release-status"><img src="https://img.shields.io/badge/Code-Coming_Soon-lightgrey.svg?style=flat-square" alt="Code Coming Soon"></a>
-  <a href="#-code-and-release-status"><img src="https://img.shields.io/badge/Weights-Coming_Soon-lightgrey.svg?style=flat-square" alt="Weights Coming Soon"></a>
-  <a href="https://github.com/wangtong627/CMSA-Net"><img src="https://img.shields.io/badge/Conference-CMSA--Net_(MICCAI_2026)-0b7285.svg?style=flat-square" alt="CMSA-Net"></a>
+  <a href="https://arxiv.org/abs/2611.30568"><img src="assets/badges/arxiv.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/pdf/2611.30568"><img src="assets/badges/paper.svg" alt="Paper PDF"></a>
+  <a href="#-code-and-release-status"><img src="assets/badges/code.svg" alt="Code Coming Soon"></a>
+  <a href="#-code-and-release-status"><img src="assets/badges/weights.svg" alt="Weights Coming Soon"></a>
+  <a href="https://github.com/wangtong627/CMSA-Net"><img src="assets/badges/conference.svg" alt="CMSA-Net"></a>
 </p>
 
 <p>
